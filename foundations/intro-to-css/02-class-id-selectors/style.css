@@ -1,0 +1,18 @@
+.OddNum{
+    background-color: rgb(244, 80, 118);
+    font-family: 'Verdana' 'DejVu Sans' 'sans-serif';
+}
+
+#Num2{
+    color: rgb(64, 85, 246);
+    font-size: 36px;
+}
+
+.BIG{
+    font-size: 24px;
+}
+#Num4{
+    background-color: rgb(150, 255, 118);
+    font-size: 24px;
+    font-weight: bold;
+}
